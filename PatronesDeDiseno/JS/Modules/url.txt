@@ -1,0 +1,41 @@
+https://www.pensemosweb.com/patrones-de-diseno-en-javascript-singleton-factory/
+https://jstherightway.org/es-es/#patterns
+
+Patrones de Diseño Creacionales
+
+    Factory (Fabrica)
+    Prototype (Prototipo)
+    Mixin
+    Singleton (Instancia única)
+
+
+Patrones de Diseno Estructural
+
+    Adapter (Adaptador)
+    Bridge (Puente)
+    Composite (Compuesto)
+    Decorator (Decorador)
+    Facade (Fachada)
+    Flyweight (Objeto ligero)
+    Module (Módulo)
+    Proxy
+    Revealing Module (Revelación del Módulo)
+
+
+Patrones de Diseno de Comportamiento 
+
+    Chain of Responsibility (Cadena de Responsabilidad)
+    Command (Comando)
+    Mediator (Mediador)
+    Observer (Observador)
+
+
+
+
+
+
+
+
+
+
+
